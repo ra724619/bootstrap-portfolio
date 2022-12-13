@@ -1,8 +1,9 @@
-
+/* main control */
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* body control */
 h1,
 h2,
 h3,
@@ -30,6 +31,8 @@ h6 {
     text-align: left;
 }
 
+
+/* Bootstrap style control */
 .text-underline-hover:hover {
     text-decoration: underline;
 }
@@ -39,3 +42,4 @@ h6 {
 	-webkit-box-shadow: 0 20px 40px rgba(72,78,85,.6);
 	box-shadow: 0 20px 40px rgba(72,78,85,.6);
 }
+
