@@ -63,13 +63,13 @@ Fullscreen:
 ![image](https://user-images.githubusercontent.com/117188356/207307957-141d0810-d75e-4a83-8344-84565b55c091.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308012-67038468-654e-4f44-b8b5-643760ffc5bf.png)
 
-Screen width under 992px:
+Maximum Screen width under 992px (col-lg):
 ![image](https://user-images.githubusercontent.com/117188356/207308583-6a2cb727-6f4a-4ec0-89d5-ad84accc52cd.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308628-d37cacd6-91f3-4c19-9f75-7e674df4f534.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308667-fef6d974-70c6-4072-b4f4-dca6418d6dc3.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308709-0297bb8c-fd3a-46ce-8273-1377773a69c9.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308761-07a5ebda-af90-46f6-870a-38969ab4bb6f.png)
-![image](https://user-images.githubusercontent.com/117188356/207310626-8591e74b-6fbe-44d9-8326-65e587fa0cdd.png)
+![image](https://user-images.githubusercontent.com/117188356/207310874-96058aa8-4bc3-455f-9fe9-5eac2140f100.png)
 
 # Installation
 
