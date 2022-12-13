@@ -60,7 +60,6 @@ There are eight requirements.
 # Screenshot
 
 Fullscreen:
-![image](https://user-images.githubusercontent.com/117188356/207307824-edf2d49d-c18e-4054-9a1a-fb76b871adff.png)
 ![image](https://user-images.githubusercontent.com/117188356/207307957-141d0810-d75e-4a83-8344-84565b55c091.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308012-67038468-654e-4f44-b8b5-643760ffc5bf.png)
 
@@ -70,7 +69,7 @@ Screen width under 992px:
 ![image](https://user-images.githubusercontent.com/117188356/207308667-fef6d974-70c6-4072-b4f4-dca6418d6dc3.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308709-0297bb8c-fd3a-46ce-8273-1377773a69c9.png)
 ![image](https://user-images.githubusercontent.com/117188356/207308761-07a5ebda-af90-46f6-870a-38969ab4bb6f.png)
-![image](https://user-images.githubusercontent.com/117188356/207308838-e4fe9c69-cc13-49d1-9196-b6084277009b.png)
+![image](https://user-images.githubusercontent.com/117188356/207310626-8591e74b-6fbe-44d9-8326-65e587fa0cdd.png)
 
 # Installation
 
