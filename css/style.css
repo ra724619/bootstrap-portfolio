@@ -1,0 +1,41 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+    color: black;
+}
+
+.jumbotron {
+    background-image: url("../images/wellwellwell.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: orange;
+    height: 50vh;
+}
+
+.card {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.aboutMecontent,.skillcontent {
+    text-align: left;
+}
+
+.text-underline-hover:hover {
+    text-decoration: underline;
+}
+
+.box-shadow:hover
+{
+	-webkit-box-shadow: 0 20px 40px rgba(72,78,85,.6);
+	box-shadow: 0 20px 40px rgba(72,78,85,.6);
+}
